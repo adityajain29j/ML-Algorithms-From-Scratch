@@ -1,5 +1,5 @@
 # KNN
-Implementation of K-Nearest Neighbours from scratch
+Implementation of different Machine Learning algorithms from scratch
 
 This algorithm has been made from scratch and does a pretty good work of predicting the classes.
 
